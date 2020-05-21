@@ -1,7 +1,7 @@
-£Ûuser£Ý
+user
 
- email£½your email
+ emailyour email
 
- name£½your name
+ nameyour name
  
  gitbanana
